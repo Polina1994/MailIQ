@@ -199,10 +199,15 @@ th {
     list-style-type: none;
 }
 
+.phone-li {
+    padding-left: 60px;
+}
+
 .navigation {
     position: fixed;
     background-color: #000;
     top: 0;
     height: 80px;
     padding-top: 20px;
+    width: 100%;
 }
